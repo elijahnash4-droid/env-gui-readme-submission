@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>EnvGui</class>
+ <widget class="QWidget" name="EnvGui">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>734</width>
+    <height>487</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QWidget" name="verticalLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>9</x>
+     <y>9</y>
+     <width>721</width>
+     <height>471</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QPushButton" name="pushButtonSelectExecutable">
+      <property name="text">
+       <string>Select executable</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="pushButtonAddEnvVariable">
+      <property name="text">
+       <string>Add Environment Variable</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="pushButtonLaunchApp">
+      <property name="text">
+       <string>Launch Application</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QTableWidget" name="tableWidgetEnvVars">
+      <property name="columnCount">
+       <number>2</number>
+      </property>
+      <attribute name="horizontalHeaderMinimumSectionSize">
+       <number>358</number>
+      </attribute>
+      <attribute name="horizontalHeaderDefaultSectionSize">
+       <number>358</number>
+      </attribute>
+      <column/>
+      <column/>
+     </widget>
+    </item>
+    <item>
+     <widget class="QTextEdit" name="textEditOutput"/>
+    </item>
+    <item>
+     <widget class="QLabel" name="labelSelectedExecutablePath">
+      <property name="text">
+       <string>Selected executable:</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

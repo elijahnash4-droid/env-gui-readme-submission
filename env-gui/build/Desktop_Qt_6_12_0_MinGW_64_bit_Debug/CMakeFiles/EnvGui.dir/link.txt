@@ -1,0 +1,3 @@
+C:\Users\elija\OneDrive\Desktop\anotherqtinstall\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\EnvGui.dir/objects.a
+C:\Users\elija\OneDrive\Desktop\anotherqtinstall\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\EnvGui.dir/objects.a @CMakeFiles\EnvGui.dir\objects1.rsp
+C:\Users\elija\OneDrive\Desktop\anotherqtinstall\Tools\mingw1310_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\EnvGui.dir/objects.a -Wl,--no-whole-archive -o EnvGui.exe -Wl,--out-implib,libEnvGui.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\EnvGui.dir\linkLibs.rsp

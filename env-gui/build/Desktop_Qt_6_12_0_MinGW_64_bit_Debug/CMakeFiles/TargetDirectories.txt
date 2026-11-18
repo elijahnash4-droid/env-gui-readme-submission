@@ -1,0 +1,5 @@
+C:/Users/elija/OneDrive/Desktop/SP2000/week-4/env-gui-Application/env-gui/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/EnvGui.dir
+C:/Users/elija/OneDrive/Desktop/SP2000/week-4/env-gui-Application/env-gui/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/edit_cache.dir
+C:/Users/elija/OneDrive/Desktop/SP2000/week-4/env-gui-Application/env-gui/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/elija/OneDrive/Desktop/SP2000/week-4/env-gui-Application/env-gui/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/EnvGui_autogen_timestamp_deps.dir
+C:/Users/elija/OneDrive/Desktop/SP2000/week-4/env-gui-Application/env-gui/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/EnvGui_autogen.dir
